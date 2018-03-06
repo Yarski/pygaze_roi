@@ -1,0 +1,16 @@
+category: PyGaze
+priority: 10
+help: manual/eyetracking/pygaze
+controls:
+-
+    label:  Duration
+    name:   line_edit_duration
+    type:   line_edit
+    var:    duration
+    info:   In milliseconds
+-
+    label:  Sampling rate
+    name:   line_edit_sampling_rate
+    type:   line_edit
+    var:    sampling_rate
+    info:   In milliseconds

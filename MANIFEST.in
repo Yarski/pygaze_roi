@@ -1,0 +1,4 @@
+include opensesame_plugins/pygaze_roi/info.yaml
+include opensesame_plugins/pygaze_roi/pygaze_roi.py
+include opensesame_plugins/pygaze_roi/pygaze_roi.png
+include opensesame_plugins/pygaze_roi/pygaze_roi_large.png
